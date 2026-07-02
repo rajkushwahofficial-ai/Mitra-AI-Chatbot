@@ -21,9 +21,6 @@ C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\scopedcss\bundle\ChatBotProject.styles.css
-C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\compressed\j2nzod1jqo-{0}-leeyqj87cq-leeyqj87cq.gz
-C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\compressed\78tg4v77ry-{0}-wq6naownh0-wq6naownh0.gz
-C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\compressed\8mojirmr6f-{0}-1umcxmhwso-1umcxmhwso.gz
 C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\staticwebassets.development.json
@@ -35,3 +32,7 @@ C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\refint\ChatBotProject.dl
 C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\ChatBotProject.pdb
 C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\ChatBotProject.genruntimeconfig.cache
 C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\ref\ChatBotProject.dll
+C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\ChatBotProject.sourcelink.json
+C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\compressed\j2nzod1jqo-{0}-436ngzuskl-436ngzuskl.gz
+C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\compressed\78tg4v77ry-{0}-wywpldhci1-wywpldhci1.gz
+C:\Users\rajku\Desktop\ChatBotProject\obj\Debug\net10.0\compressed\8mojirmr6f-{0}-36t3lx0sw6-36t3lx0sw6.gz
